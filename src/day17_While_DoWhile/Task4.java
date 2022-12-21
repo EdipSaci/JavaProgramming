@@ -2,7 +2,7 @@ package day17_While_DoWhile;
 
 import java.util.Scanner;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         /*
         4. Write a program that can print the numbers between 1 ~ N that can be divisible by 3, 5, and 15.

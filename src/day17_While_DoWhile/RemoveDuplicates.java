@@ -1,6 +1,6 @@
 package day17_While_DoWhile;
 
-public class removeDuplicates {
+public class RemoveDuplicates {
     public static void main(String[] args) {
 
         String str = "AABBCC";

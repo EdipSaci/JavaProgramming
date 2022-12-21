@@ -1,6 +1,6 @@
 package day17_While_DoWhile;
 
-public class frequencyOfWord {
+public class FrequencyOfWord {
     public static void main(String[] args) {
         String str = "JavaJavaJavaJavaJava ";
         int frequency = 0;

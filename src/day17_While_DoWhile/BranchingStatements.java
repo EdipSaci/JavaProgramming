@@ -2,7 +2,7 @@ package day17_While_DoWhile;
 
 import java.util.Scanner;
 
-public class branchingStatements {
+public class BranchingStatements {
     public static void main(String[] args) {
         for (char i = 'A'; i <= 'Z'; i++) {
             if (i == 'F'){

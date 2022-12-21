@@ -1,6 +1,6 @@
 package day17_While_DoWhile;
 
-public class frequencyOfWord_whileLoop {
+public class FrequencyOfWord_whileLoop {
     public static void main(String[] args) {
         String str = "Java Java Python Python";
 

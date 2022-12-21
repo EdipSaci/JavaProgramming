@@ -2,7 +2,7 @@ package day17_While_DoWhile;
 
 import java.util.Scanner;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
