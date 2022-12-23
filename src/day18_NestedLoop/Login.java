@@ -2,7 +2,7 @@ package day18_NestedLoop;
 
 import java.util.Scanner;
 
-public class login {
+public class Login {
     public static void main(String[] args) {
         /*
         2. You are writing a code for the log-in function of the Cydeo Application, assume that your credentials are:

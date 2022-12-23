@@ -1,6 +1,6 @@
 package day18_NestedLoop;
 
-public class task5Unique {
+public class Task5Unique {
     public static void main(String[] args) {
         String str = "aabccdeef";
 

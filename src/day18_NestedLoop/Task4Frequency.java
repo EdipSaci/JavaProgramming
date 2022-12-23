@@ -1,6 +1,6 @@
 package day18_NestedLoop;
 
-public class task4Frequency {
+public class Task4Frequency {
     public static void main(String[] args) {
         String str = "aabcccd";
 

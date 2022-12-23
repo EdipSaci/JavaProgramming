@@ -2,7 +2,7 @@ package day18_NestedLoop;
 
 import java.util.Scanner;
 
-public class additionOfTwoNumbers {
+public class AdditionOfTwoNumbers {
     public static void main(String[] args) {
         Scanner scan =new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package day18_NestedLoop;
 
-public class task1_MultiplicationTable {
+public class Task1_MultiplicationTable {
     public static void main(String[] args) {
 
         for (int i = 1; i <=10; i++) {

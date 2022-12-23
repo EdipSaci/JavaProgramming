@@ -1,6 +1,6 @@
 package day18_NestedLoop;
 
-public class shape {
+public class Shape {
     public static void main(String[] args) {
 
 
